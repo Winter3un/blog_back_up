@@ -50,8 +50,8 @@ tagcloud: true
 #不开启——
 #friends: false
 #开启——
-# friends:
-  # 奥巴马的博客: http://localhost:4000/
+friends:
+  MuHe : http://o0xmuhe.me/
   # 卡卡的美丽传说: http://localhost:4000/
   # 本泽马的博客: http://localhost:4000/
   # 吉格斯的博客: http://localhost:4000/
@@ -62,4 +62,4 @@ tagcloud: true
 #不开启——
 #aboutme: false
 #开启——
-aboutme: CTF玩家、网络安全研究员、pwner、半赛棍
+aboutme: 曾实习于安恒、桐乡市公安局反欺诈中心、Mirage队长、CTF玩家、网络安全研究员、pwner、半赛棍、浙警院13级学生
